@@ -1,0 +1,19 @@
+/* Background image για όλο το site */
+body {
+  background-image: url("/images/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #fafafa; /* fallback */
+}
+
+/* Λευκό ημιδιάφανο πλαίσιο για τα text blocks */
+.page,
+.page__inner-wrap,
+.page__content,
+.sidebar {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
