@@ -2,6 +2,7 @@
 permalink: /
 title: "Alexandros Galanakis"
 author_profile: true
+mathjax: true
 redirect_from: 
   - /about/
   - /about.html
