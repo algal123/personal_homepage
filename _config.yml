@@ -22,7 +22,7 @@ repository               : "algal123/personal_homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "alex.JPG"        # Βάλε το όνομα της φωτογραφίας σου στον φάκελο images/
+  avatar           : "alex1.JPG"        # Βάλε το όνομα της φωτογραφίας σου στον φάκελο images/
   name             : "Alexandros Galanakis"
   pronouns         : "he/him"
   bio              : "Postdoctoral researcher in algebraic number theory at the Bundeswehr University Munich."
