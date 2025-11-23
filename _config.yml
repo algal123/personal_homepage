@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Alexandros Galanakis"
 description              : &description "Postdoctoral researcher in algebraic number theory"
 url                      : "https://algal123.github.io/personal_homepage"
-baseurl                  : ""   # καλά είναι έτσι, αφού το site είναι σε αυτό το repo
+baseurl                  : ""   # καλά είναι έτσι, αφού το site είναι σε υτό το repo
 repository               : "algal123/personal_homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
